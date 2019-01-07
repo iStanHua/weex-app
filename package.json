@@ -28,7 +28,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "phantom-limb": "0.0.1",
     "vue":"^2.5.21",
     "vue-router":"^3.0.2",
@@ -61,6 +60,7 @@
     "node-notifier": "^5.1.2",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
+    "sass-resources-loader":"^2.0.0",
     "portfinder": "^1.0.13",
     "postcss-import": "^11.0.0",
     "postcss-loader": "^2.0.9",
